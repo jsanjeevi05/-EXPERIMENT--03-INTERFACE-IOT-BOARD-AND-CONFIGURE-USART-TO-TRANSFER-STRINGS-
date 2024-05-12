@@ -1,10 +1,5 @@
 
-###  DATE: 27/2/24
-###  NAME: SANJEEVI J
-###  ROLL NO : 212222110040
-###  DEPARTMENT: CSE(IoT)
-
-# EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
+# EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
 ## Theory 
@@ -39,7 +34,10 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 7. Opend serial port utility and check the outpu t
 
 
-
+```
+Name : SANJEEVI J
+Reg.no : 212222110040
+```
 ## STM 32 CUBE PROGRAM :
 ```
 #include "main.h"
